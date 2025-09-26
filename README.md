@@ -8,7 +8,7 @@ Advanced AI text detection and analysis tool - powered by ZeroGPT Plus technolog
 <br>
 
 <p align="center">
-  <a href="【https://chromewebstore.google.com/detail/zerogpt-plus/mhgkcopbilpngbffdgmokljmekgenehm?hl=zh-CN&utm_source=ext_sidebar】" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/zerogpt-plus/mhgkcopbilpngbffdgmokljmekgenehm?hl=zh-CN&utm_source=ext_sidebar" target="_blank">
     <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfL3I41I03T.png" alt="添加到 Chrome" width="200">
   </a>
 </p>
